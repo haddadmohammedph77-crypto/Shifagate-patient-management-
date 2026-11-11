@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Shifagate",
+    "slug": "shifagate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.shifagate.patient"
+    },
+    "android": {
+      "package": "com.shifagate.patient",
+      "adaptiveIcon": {
+        "backgroundColor": "#EAF3FF"
+      }
+    }
+  }
+}
